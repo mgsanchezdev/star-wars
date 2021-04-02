@@ -1,6 +1,9 @@
 .Container-people {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  background-color: grey;
+  height: calc(100vh - 100px);
 }
 .link-people {
   text-decoration: none;
@@ -9,4 +12,5 @@
 
 .link-people:hover {
   color: rgb(75, 52, 52);
+  font-size: 40px;
 }

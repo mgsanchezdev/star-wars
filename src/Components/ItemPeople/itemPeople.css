@@ -1,0 +1,15 @@
+.name-people {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 160px;
+  background-color: var(--color-black-star-wars);
+  font-family: var(--font-star-wars);
+  font-size: 35px;
+  color: var(--color-yelow-star-wars);
+}
+
+.name-people :hover {
+  font-size: 38px;
+}

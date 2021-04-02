@@ -1,3 +1,12 @@
+@font-face {
+  font-family: star-wars;
+  src: url('./assets/fonts/Starjedi.ttf');
+}
+:root {
+  --font-star-wars: star-wars, sans-serif;
+  --color-yelow-star-wars: #fad275;
+  --color-black-star-wars: #060608;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
