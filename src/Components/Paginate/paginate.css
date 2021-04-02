@@ -1,0 +1,5 @@
+.container-paginate {
+  display: flex;
+  justify-content: center;
+  background-color: var(--color-grey-star-wars);
+}

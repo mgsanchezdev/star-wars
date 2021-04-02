@@ -3,7 +3,7 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
   background-color: var(--color-grey-star-wars);
-  height: calc(100vh - 100px);
+  height: calc(100vh - 160px);
 }
 .link-people {
   text-decoration: none;
