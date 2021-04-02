@@ -1,0 +1,12 @@
+.Container-people {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.link-people {
+  text-decoration: none;
+  color: black;
+}
+
+.link-people:hover {
+  color: rgb(75, 52, 52);
+}

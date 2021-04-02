@@ -1,7 +1,15 @@
 .container-image {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   width: 100%;
   background-color: #060608;
 }
 .image-header {
   height: 100px;
+}
+
+.btn-home {
+  height: 50px;
+  margin-right: 50px;
 }
