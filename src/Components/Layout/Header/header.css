@@ -10,6 +10,14 @@
 }
 
 .btn-home {
-  height: 50px;
+  text-decoration: none;
+  color: var(--color-yelow-star-wars);
   margin-right: 50px;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.btn-home:hover {
+  color: var(--color-yelow-star-wars);
 }
