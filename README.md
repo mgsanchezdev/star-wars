@@ -1,7 +1,5 @@
 # Star Wars
 
-## Deploy del proyecto:
-
 ## Detalles:
 
 Proyecto creado de cero con 'npx create-react-app my-app --template typescript'.
