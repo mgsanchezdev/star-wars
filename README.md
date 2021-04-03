@@ -1,5 +1,9 @@
 # Star Wars
 
+Deploy de la aplicación:
+
+https://api-star-wars-tau.vercel.app/
+
 ## Detalles:
 
 Proyecto creado de cero con 'npx create-react-app my-app --template typescript'.
