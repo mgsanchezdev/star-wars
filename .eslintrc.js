@@ -19,5 +19,7 @@ module.exports = {
     'linebreak-style': 'off',
     'react/react-in-jsx-scope': 'off',
     'react/jsx-one-expression-per-line': 'off',
+    'import/no-unresolved': 'off',
+    'import/extensions': 'off',
   },
 };

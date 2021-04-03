@@ -9,25 +9,6 @@ import { PeopleDetailsContext } from '../../../context/peopleDetails';
 import './home.css';
 
 const Home = () => {
-  /*  const { setPeople } = React.useContext(PeopleDetailsContext);
-  const [data, fetching] = useGet();
-  if (fetching) return <Loading />;
-  return (
-    <div className="Container-people">
-      {data.results.map((people, index) => (
-        <Link
-          to="details"
-          className="link-people"
-          onClick={() => {
-            setPeople(people);
-          }}
-          key={index}
-        >
-          <ItemPeople people={people} />
-        </Link>
-      ))}
-    </div>
-  ); */
   const { setPeople } = React.useContext(PeopleDetailsContext);
   const [page, setPage] = useState('?page=1');
 
